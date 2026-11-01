@@ -37,6 +37,7 @@ How do global markets perform structurally (arena vs stadium, region vs region),
 - The price scenario assumes demand does not change when prices rise. Real demand would respond.
 - The data is tour gross and ticket figures, so it says nothing about costs or profit.
 - Scenario results are what-ifs, not forecasts.
+- Where public reporting was incomplete, I used reasonable estimates for some gross and attendance figures. Treat those rows as approximate.
 
 ## Files
 
